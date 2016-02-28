@@ -1,0 +1,27 @@
+_repo: The-Flying-Saucers-are-Real_5883
+creator:
+  author:
+    agent_name: Keyhoe, Donald E. (Donald Edward)
+    alias: Keyhoe, Donald Edward
+    birthdate: 1897
+    deathdate: 1988
+    gutenberg_agent_id: '1891'
+    url: http://www.gutenberg.org/2009/agents/1891
+    wikipedia: http://www.hallrichard.com/keyhoe.htm
+description: This book contains several documented reports of UFO's, and questions
+  the cover-up's made by the government. Some reports dating back to the 1800s. A
+  very interesting book to say the least. This book will make you open your eyes to
+  the possiblility of visitors to our planet.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Unidentified flying objects'
+- !lcc 'TL'
+title: The Flying Saucers are Real
+url: http://www.gutenberg.org/ebooks/5883
